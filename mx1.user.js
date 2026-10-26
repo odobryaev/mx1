@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  Один блоб в общем канале Slack, каждый ключ расшифровывает свой текст (X25519 + ChaCha20-Poly1305)
 // @author       -
-// @match        https://app.slack.com/client/T6B49902J/*
+// @match        https://app.slack.com/client/T0CCDR7HZRA/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_setClipboard
