@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MX1
 // @namespace    https://github.com/odobryaev/mx1
-// @version      1.0.0
+// @version      1.1.0
 // @description  Один блоб в общем канале Slack, каждый ключ расшифровывает свой текст (X25519 + ChaCha20-Poly1305)
 // @author       -
 // @match        https://app.slack.com/client/T0CCDR7HZRA/*
